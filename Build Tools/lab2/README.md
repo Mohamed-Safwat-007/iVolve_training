@@ -2,6 +2,7 @@ Lab 2: Building and Packaging Java Applications with maven
 
 
 • Install maven.
+
   sudo dnf install maven
 
 
