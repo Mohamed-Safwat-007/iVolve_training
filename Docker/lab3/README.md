@@ -1,4 +1,4 @@
-<img width="866" height="701" alt="image" src="https://github.com/user-attachments/assets/2fe2fabc-db23-449c-98a6-76f822ef351c" />Lab 3: Run Java Spring Boot App in a Container
+Lab 3: Run Java Spring Boot App in a Container
 
 • Clone the Application Code https://github.com/Ibrahim-Adel15/Docker-1.git
 
