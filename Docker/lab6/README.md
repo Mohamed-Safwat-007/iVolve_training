@@ -4,15 +4,15 @@ Lab 6: Managing Docker Environment Variables Across Build and Runtime
 
         git clone https://github.com/Ibrahim-Adel15/Docker-3.git
 
-cd Docker-3
+        cd Docker-3
 
 <img width="799" height="280" alt="image" src="https://github.com/user-attachments/assets/b1742949-d24e-4d52-807f-b767a3498e38" />
 
 • Write Dockerfile
 
-nano Dockerfile
+           nano Dockerfile
 
-ls
+                ls
 
 <img width="868" height="215" alt="image" src="https://github.com/user-attachments/assets/7d738c8d-41cc-49cc-8092-5368b9d60b6a" />
 
