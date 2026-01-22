@@ -2,7 +2,7 @@ Lab 6: Managing Docker Environment Variables Across Build and Runtime
 
 • Clone the Application Code https://github.com/Ibrahim-Adel15/Docker-3.git
 
-git clone https://github.com/Ibrahim-Adel15/Docker-3.git
+        git clone https://github.com/Ibrahim-Adel15/Docker-3.git
 
 cd Docker-3
 
